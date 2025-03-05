@@ -1,0 +1,12 @@
+{
+    "name": "minecraft-world-overviewer",
+    "version": "1.0.0",
+    "description": "Minecraft World Overviewer Web Interface",
+    "scripts": {
+        "start": "serve .",
+        "build": "echo 'No build step needed - files are already built'"
+    },
+    "dependencies": {
+        "serve": "^14.2.1"
+    }
+}
